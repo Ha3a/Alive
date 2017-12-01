@@ -21,6 +21,6 @@ public class AliveApplication {
     }
 
     public static String herokuUrl() {
-        return "";
+        return "https://rocky-spire-33063.herokuapp.com/";
     }
 }
