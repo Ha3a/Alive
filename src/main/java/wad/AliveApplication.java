@@ -3,6 +3,8 @@ package wad;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+
+
 @SpringBootApplication
 public class AliveApplication {
 
@@ -11,11 +13,11 @@ public class AliveApplication {
     }
 
     public static String githubUrl() {
-        return "";
+        return "https://github.com/Ha3a/Alive";
     }
 
     public static String travisUrl() {
-        return "";
+        return "https://travis-ci.org/Ha3a/Alive";
     }
 
     public static String herokuUrl() {
